@@ -49,7 +49,7 @@ After adding the path and installation is done close the previous terminal and o
 ## How to Install
 
 ```bash
-git clone https://github.com/s-zahir/mr_dns.git
+git clone https://github.com/B-bakhtawar/dnsinformer.git
 
 ```
 Go to the same directory where you clone the tool and type
